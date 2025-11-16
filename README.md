@@ -81,7 +81,7 @@ _Noise vs. Enhanced Image_
 ---
 
 ## 👨‍💻 Author  
-📌 **Developed by:** *Shubham Vishwakarma*  *Mayank Kathane* *Jeet Nakrani*
+📌 **Developed by:** *Shubham Vishwakarma* / *Mayank Kathane* / *Jeet Nakrani*
 💬 Feel free to reach out for collaboration or research discussions.  
 
 ---

@@ -36,7 +36,7 @@ CT-Image-Denoising/
 - 🧠 **Noise Reduction**: Autoencoder removes CT noise while retaining diagnostic details.  
 - 🩺 **Tumor Prediction**: Classifier identifies tumor presence on enhanced images.  
 - 📊 **Metrics**: Includes SNR improvement tracking & classification reports.  
-- 🌍 **Cloud Deployment**: Flask app hosted on **AWS EC2** for remote usage.  
+- 🌍 **Cloud Deployment**: Flask app hosted on **AWS EC2** for remote & Easy usage.  
 
 ---
 
